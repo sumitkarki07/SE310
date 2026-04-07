@@ -14,6 +14,10 @@ def division(number1, number2):
   print("We are dividing " + str(number1) + " by " + str(number2))
   return number1 / number2
 
+def square_root(number):
+  print("We are finding the square root of " + str(number))
+  return number ** 0.5
+
 def calculator():
   print("Calculator by team =  " + team_name)
   print("Choose the operation you want to perform: ")
