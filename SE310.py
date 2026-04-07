@@ -1,6 +1,6 @@
 
 #### TASK 1 - ENTER YOUR TEAM NAME AND NUMBER
-team_name = ""
+team_name = "GDGHackers"
 
 #### TASK 2 - Clone the empty gitHub repo in your local computer (Member #1)
 
