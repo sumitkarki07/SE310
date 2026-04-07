@@ -1,6 +1,6 @@
 
 #### TASK 1 - ENTER YOUR TEAM NAME AND NUMBER
-team_name = "GDGHackers"
+team_name = ""
 
 #### TASK 2 - Clone the empty gitHub repo in your local computer (Member #1)
 
@@ -10,10 +10,9 @@ def addition(number1, number2):
   print("We are adding " + str(number1) + " and " + str(number2))
   return number1 + number2
 
-def integer_division(number1, number2):
+def division(number1, number2):
   print("We are dividing " + str(number1) + " by " + str(number2))
-  return number1 // number2
-
+  return number1 / number2
 
 def calculator():
   print("Calculator by team =  " + team_name)
